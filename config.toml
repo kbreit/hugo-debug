@@ -1,0 +1,4 @@
+baseURL = "https://kevinbreit.net.s3-website.us-east-2.amazonaws.com"
+languageCode = "en-us"
+title = "Kevin Breit's Website"
+theme = "ananke"
